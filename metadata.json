@@ -1,0 +1,6 @@
+{
+  "name": "GUIDE",
+  "description": "GUIDE - Comprehensive Academic & Exam Tutor for Dr Emyush Shrestha featuring visual diagrams, simplified explanations, and NEB/CEE exam practice.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
